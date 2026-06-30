@@ -85,4 +85,4 @@ For questions about this Privacy Policy:
 
 **IshtanDeng**  
 Email: ishtandeng@gmail.com  
-GitHub: https://github.com/ishtandeng/CM-Gantt/issues
+GitHub: https://github.com/ishtandeng/CM-Gantt-Public/issues
