@@ -34,7 +34,7 @@ All of this data originates from your own Power BI data model. You control what 
 
 **The Visual does not store, collect, or transmit any data.**
 
-All computation — dependency parsing, critical path calculation, SVG rendering — is performed entirely within the Power BI client (Desktop, Service, or Embedded) on the end user's device or within the Microsoft Power BI cloud environment. No data is sent to any server operated by IshtanDeng or any third party.
+All computations related to dependency parsing, critical path calculation, SVG rendering are performed entirely within the Power BI client (Desktop, Service, or Embedded) on the end user's device or within the Microsoft Power BI cloud environment. No data is sent to any server operated by IshtanDeng or any third party.
 
 The Visual makes **no external network requests** of any kind.
 
